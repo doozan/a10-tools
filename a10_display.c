@@ -89,7 +89,6 @@ int main(int argc, char const *argv[])
   }
 
   args[1] = param; 
-  printf("Dev = %x Command = %x  param = %x\n", device, command, param);
 
   int disp = open(DISP_DEV, O_RDWR, 0);
   if (disp < 0) {
