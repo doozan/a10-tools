@@ -1,9 +1,7 @@
 a10-tools
 =========
 
-misc tools for A10 devices by [Jeff](http://forum.doozan.com/read.php?6,9002).
-
-I've created a very simple utility to turn on/off the various displays. Source here, binary here. 
+misc tools for A10 devices by [Jeff](http://forum.doozan.com/read.php?6,9002), binary [here](http://download.doozan.com/a10/a10_display). 
 
 Usage 
 ----
